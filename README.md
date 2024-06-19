@@ -1,6 +1,6 @@
 # Ponderada Semana 9
 
-## Amazon Comprehend
+## Amazon Comprehend: o que é?
 
 Amazon comprehend é uma ferraenta da Amazon para Processamento de Linguagem Natural. Esta ferramenta pode trabalhar tanto com texto quanto com áudios - os quais também são internamente transcritos em forma textual - de modo a extrair frases chave, identificar entidades e até mesmo sentimentos. Esta ferramente poderia ser facilmemnte utilizada no contet=xto do projetop atual, dado que poderia realizar a análise de sentimentos pedida pela Uber bem como ainda identificar a que aspecto da marca o sentimrento está ligado. Tendo isso em meente, alguns casos de uso para a ferramenta são:
 
@@ -9,3 +9,4 @@ Amazon comprehend é uma ferraenta da Amazon para Processamento de Linguagem Nat
 - <b>Gerenciamento de resumos jurídicos:</b> automatização da extração de insights de documentos jurídicos e da edição de informações de edificação pessoal;
 - <b>Processamento de documentos financeiros:</b> Classificação e extraçãop de entidades em documentos como também identificação de relações entre os mesmos.
  
+### Exemplo de aplicação prática: Detectando entidades de um texto utilizando Amazon Comprehend
